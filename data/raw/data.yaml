@@ -1,0 +1,6 @@
+# data.yaml
+train: C:/Users/venka/OneDrive/Desktop/moon_crater_detection/data/raw/train/images
+val: C:/Users/venka/OneDrive/Desktop/moon_crater_detection/data/raw/valid/images
+
+nc: 1  # number of classes
+names: ['crater']  # class names
